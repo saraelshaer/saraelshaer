@@ -20,18 +20,18 @@
   
 ##
 <h3 align="left">🔗 Connect with me:</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 26px;">
+<p align="center" style="display: flex; justify-content: center; gap: 32px;">
 	<a href="https://www.linkedin.com/in/sara-elshaer/" target="_blank" style="margin: 0 10px;">
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara-elshaer" style="height: 40px; width: 50px; vertical-align: middle;">
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara-elshaer" style="height: 30px; width: 40px; vertical-align: middle;">
 	</a>
 	<a href="https://codeforces.com/profile/Sara_Elshaer" target="_blank" style="margin: 0 10px;">
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sara_Elshaer" style="height: 40px; width: 50px; vertical-align: middle;">
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sara_Elshaer" style="height: 30px; width: 40px; vertical-align: middle;">
 	</a>
 	<a href="https://leetcode.com/sara_elshaer/" target="_blank" style="margin: 0 10px;">
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sara_elshaer" style="height: 40px; width: 50px; vertical-align: middle;">
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sara_elshaer" style="height: 30px; width: 40px; vertical-align: middle;">
 	</a>
 	<a href="https://www.hackerrank.com/sara_el4a3r" target="_blank" style="margin: 0 10px;">
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sara_el4a3r" style="height: 40px; width: 50px; vertical-align: middle;">
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sara_el4a3r" style="height: 30px; width: 40px; vertical-align: middle;">
 	</a>
 </p>
 
@@ -45,25 +45,25 @@
 
   <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
     </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60"/>
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
     </a>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" width="60" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" width="50" height="50"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
     </a>
   </div>
 </div>
