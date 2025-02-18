@@ -14,8 +14,8 @@
 
 
 
-- 🌱 I’m currently learning **.Net**
--  💬 Ask me about Web Development.
+- 🌱 I’m currently learning **Web API**
+-  💬 Ask me about **.NET**.
 - 📫 How to reach me **saraelshaer923@gmail.com**.
   
 ##
@@ -78,7 +78,7 @@
   &nbsp;
 	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saraelshaer&theme=chartreuse-dark&hide_border=true" alt="saraelshaer" height="192px"/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraelshaer&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact"  alt="saraelshaer" height="192px"/>
- <br/><br>
+
 
  </p>
 
