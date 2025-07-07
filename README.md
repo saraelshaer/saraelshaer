@@ -21,7 +21,6 @@
 <br><br>
 
 - 🌱 I’m currently learning **Web API**
--  💬 Ask me about **.NET**.
 - 📫 How to reach me **saraelshaer923@gmail.com**.
 
  <br><br>
