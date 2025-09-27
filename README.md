@@ -15,77 +15,55 @@
 
 ## 👩🏻‍💻 About me
     
-<img align="right"  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="280"  >
+- 💡 Junior backend developer specialized in **.NET**.  
+- 🔍 Interested in **clean architecture** and **scalable systems**.  
+- 📚 Strong focus on **problem-solving** and writing clean, maintainable code.  
+- 🤝 Open to collaborating on impactful projects.  
+- 📄 [View My CV](https://drive.google.com/file/d/1RzZeM7scvUKSi8HnKvxvRuOLVREyktvH/view?usp=drivesdk)  
 
 
-<br><br>
+## 📈 Currently Working On
+- Enhancing my backend development skills with real-world projects.  
+- Practicing problem-solving on platforms like LeetCode, Codeforces, and HackerRank.  
+- Learning advanced software architecture patterns.  
 
-- 🌱 I’m currently learning **Web API**
-- 📫 How to reach me **saraelshaer923@gmail.com**.
-
- <br><br>
  
 ## 🔗 Connect with me
-<br><br>
-<p align="center" style="display: flex; justify-content: center; gap: 32px;">
-	<a href="https://www.linkedin.com/in/sara-elshaer/" target="_blank" style="margin: 0 10px;">
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara-elshaer" style="height: 40px; width: 40px; vertical-align: middle;">
-	</a>
-	 &emsp; 
-	<a href="https://codeforces.com/profile/Sara_Elshaer" target="_blank" style="margin: 0 10px;">
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sara_Elshaer" style="height: 40px; width: 40px; vertical-align: middle;">
-	</a>
-	 &emsp; 
-	<a href="https://leetcode.com/sara_elshaer/" target="_blank" style="margin: 0 10px;">
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sara_elshaer" style="height: 40px; width: 40px; vertical-align: middle;">
-	</a>
-	 &emsp; 
-	<a href="https://www.hackerrank.com/sara_el4a3r" target="_blank" style="margin: 0 10px;">
-		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sara_el4a3r" style="height: 40px; width: 40px; vertical-align: middle;">
-	</a>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sara-elshaer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saraelshaer531@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/saraelshaer88" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Sara_Elshaer" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/sara_elshaer" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sara_el4a3r" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
 </p>
 
-
-
-## 🛠️ Languages and Tools
-
-
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="10%" alt="Tools Icon" />
-
-<div align="center">
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-    </a>
-	&emsp;
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
-    </a>
-	   &emsp; 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60"/>
-    </a>
-	   &emsp; 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" width="60" height="60"/>
-    </a>
-	   &emsp; 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
-    </a>
-	   &emsp; 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
-    </a>
-	   &emsp; 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
-    </a>
-  </div>
-</div>
-
-<br><br>
+## 🚀 Skills & Technologies
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=ef&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ## 📊 Github Stats
 
