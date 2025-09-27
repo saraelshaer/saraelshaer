@@ -16,7 +16,7 @@
 ## 👩🏻‍💻 About me
     
 - 💡 Junior backend developer specialized in `.NET`.  
-- 🔍 Interested in `clean architecture` and ذscalable systems`.  
+- 🔍 Interested in `clean architecture` and `scalable systems`.  
 - 📚 Strong focus on `problem-solving` and `writing clean`, `maintainable code`.  
 - 🤝 Open to collaborating on impactful projects.  
 - 📄 I’m currently open to job opportunities, [View My CV](https://drive.google.com/file/d/1RzZeM7scvUKSi8HnKvxvRuOLVREyktvH/view?usp=drivesdk)  
