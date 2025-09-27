@@ -15,16 +15,16 @@
 
 ## 👩🏻‍💻 About me
     
-- 💡 Junior backend developer specialized in **.NET**.  
-- 🔍 Interested in **clean architecture** and **scalable systems**.  
-- 📚 Strong focus on **problem-solving** and writing clean, maintainable code.  
+- 💡 Junior backend developer specialized in `.NET`.  
+- 🔍 Interested in `clean architecture` and sc`alable systems`.  
+- 📚 Strong focus on `problem-solving` and `writing clean`, `maintainable code`.  
 - 🤝 Open to collaborating on impactful projects.  
-- 📄 [View My CV](https://drive.google.com/file/d/1RzZeM7scvUKSi8HnKvxvRuOLVREyktvH/view?usp=drivesdk)  
+- 📄 I’m currently open to job opportunities, [View My CV](https://drive.google.com/file/d/1RzZeM7scvUKSi8HnKvxvRuOLVREyktvH/view?usp=drivesdk)  
 
 
 ## 📈 Currently Working On
 - Enhancing my backend development skills with real-world projects.  
-- Practicing problem-solving on platforms like LeetCode, Codeforces, and HackerRank.  
+- Practicing problem-solving on platforms like `LeetCode`, `Codeforces`, and `HackerRank`.  
 - Learning advanced software architecture patterns.  
 
  
@@ -78,6 +78,10 @@
 
  </p>
 
-
+## 🐍 Contributions Snake Game
+	
+<p align = "center">
+	<img src = "https://github.com/saraelshaer/saraelshaer/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 
